@@ -1,0 +1,41 @@
+<resources>
+
+    <style name="AppTheme.PopupMenu" parent="AppTheme">
+        <item name="android:popupBackground">@color/colorPrimary</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar" />
+
+    <style name="AppTheme.AppBar" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.RecyclerView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:clipToPadding">false</item>
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:paddingTop">@dimen/form_padding</item>
+        <item name="android:paddingStart">@dimen/card_outer_spacing</item>
+        <item name="android:paddingEnd">@dimen/card_outer_spacing</item>
+    </style>
+
+    <style name="AppTheme.RecyclerView.HorizontalPadding">
+        <item name="android:paddingStart">@dimen/form_half_padding</item>
+        <item name="android:paddingEnd">@dimen/form_half_padding</item>
+    </style>
+
+    <style name="TextShadow">
+        <item name="android:shadowColor">@color/text_shadow</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pattern_brief_info">Weight: %1$d\nHeight: %2$d</string>
+</resources>

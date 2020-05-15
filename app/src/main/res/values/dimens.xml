@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_elevation">2dp</dimen>
+    <dimen name="double_elevation">4dp</dimen>
+
+    <dimen name="form_padding">16dp</dimen>
+    <dimen name="form_half_padding">8dp</dimen>
+    <dimen name="form_quarter_padding">4dp</dimen>
+    <dimen name="form_eight_padding">2dp</dimen>
+    <dimen name="form_double_padding">32dp</dimen>
+
+    <dimen name="card_outer_spacing">3dp</dimen>
+    <dimen name="recycle_horizontal_padding">15dp</dimen>
+
+    <dimen name="size_none">0dp</dimen>
+</resources>
